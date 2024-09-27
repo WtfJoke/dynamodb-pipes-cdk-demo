@@ -10,3 +10,7 @@ Project for demonstrating how to use DynamoDB Streams in a EventBridge Pipe usin
 * `pnpm run cdk deploy`  deploy this stack to your default AWS account/region
 * `pnpm run cdk diff`    compare deployed stack with current state
 * `pnpm run cdk synth`   emits the synthesized CloudFormation template
+
+# Architecture
+
+![Pipe - DynamoDB Stream to EventBridge EventBus Architecture](https://github.com/user-attachments/assets/0a5cfc82-7339-47e3-85af-e28d4e5bd025)
